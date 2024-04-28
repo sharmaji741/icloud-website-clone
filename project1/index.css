@@ -1,0 +1,132 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: SF Pro Display, Helvetica Neue, sans-serif;
+    background-color: #fbfbfd80;
+}
+.icloudlogo{
+padding-left: 16px;
+padding-top: 6px;
+}
+.ellipsis{
+    padding-left: 90%;
+    padding-top: 4px;
+}
+.video{
+    padding-left: 19%;
+}
+.iCloudtext{
+    padding-left: 20%;
+    font-weight: bold;
+    font-size: 139px;
+    font-weight: 600;
+    letter-spacing: -2.8px;
+    padding-top: 2px;
+}
+
+.v{
+    padding-left: 44%;
+    padding-top: 4px;
+}
+.c{
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    height: 50px;
+    width: 150px;    
+ border-radius: 30px;
+}
+button {
+    padding-top: 10px;
+    height: 4em;
+    width: 15em;
+    border: none;
+    border-radius: 40px;
+    cursor: pointer;
+  }
+  
+  button span {
+    z-index: 1;
+    display: inline-block;
+    background-color: black;
+    height: 50px;
+    width: 150px;
+    border-radius: 25px;
+    color: #fff;
+    line-height: 55px;
+    font-size: 18px;
+    letter-spacing: 1px;
+  }
+  
+  .description{
+    color: rgba(5, 5, 5, 0.829);
+    font-weight:600;
+    font-size: 39px;
+    padding-left: 32%;
+    padding-top: 30px;
+   text-align: justify;
+   text-justify: inter-word;
+}
+.card {
+    box-shadow: 0 8px 100px 0 rgba(185, 185, 185, 0.521);
+    border-radius: 4%; 
+    background-color: rgb(255, 255, 255);
+    height: 485px;
+    width: 405px;
+    margin-left: 226px;
+    margin-top: 60px;
+  }
+  
+  
+  img {
+    
+    width: 300px;
+    border-radius: 10px;
+    margin-left: 50px;
+    margin-top: 50px;
+  }
+  .h1{
+    padding-top: 20px;
+    padding-left: 25px;
+  }
+  .hey{
+    padding-top: 20px;
+    padding-left: 25px;
+}
+
+.card1 {
+    box-shadow: 0 8px 100px 0 rgba(185, 185, 185, 0.521);
+    border-radius: 4%; 
+    background-color: rgb(255, 255, 255);
+    height: 483px;
+    width: 405px;
+    margin-left: 765px;
+    margin-top: -485px;
+    }
+.footer{
+    margin-top: 140px;
+}
+.footerbody{
+    background-color: #f2f2f7;
+    height: 25px;
+}  
+.application{
+    background-color: #f2f2f7;
+    display: flex;
+    color: #686869;
+    height: 74.64;
+    width: 22;
+    padding-left: 100px;
+    font-size: 11px;
+    padding-top: 5px;
+}
+.separator{
+    height: 15px;
+    width: 1px;
+    background: #626263;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.copyright{
+    padding-left: 677px;
+}
